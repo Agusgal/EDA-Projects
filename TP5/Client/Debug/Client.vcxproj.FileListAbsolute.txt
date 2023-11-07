@@ -1,0 +1,4 @@
+C:\Users\Agus\Documents\GitHub\TP5eda\Client\Debug\Client.vcxproj.CopyComplete
+C:\Users\Agus\Documents\GitHub\TP5eda\Client\Debug\Client.exe
+C:\Users\Agus\Documents\GitHub\TP5eda\Client\Debug\libcurl-d.dll
+C:\Users\Agus\Documents\GitHub\TP5eda\Client\Debug\zlibd1.dll
